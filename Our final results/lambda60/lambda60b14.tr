@@ -1,0 +1,24 @@
+znt : 0.028477741333333334
+relativeErr : 5.2408647057928857
+nbBlocks : 75.0
+response time: 0.000978405
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  42211342
+------------------------------
+
+znt : 0.0282298170940171
+relativeErr : 3.3784079825329556
+nbBlocks : 117.0
+response time: 0.022906
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  102652400
+------------------------------
+
+znt : 0.028324716799999986
+relativeErr : 2.9325632790310885
+nbBlocks : 125.0
+response time: 8.45019e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  117230059
+------------------------------
+

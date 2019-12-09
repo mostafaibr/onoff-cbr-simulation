@@ -1,0 +1,138 @@
+
+znt : 0.012784548888888888
+relativeErr : 3.2028890925345914
+nbBlocks : 90.0
+response time: 0.000139784
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  40542688
+------------------------------
+znt : 0.012785069473684211
+relativeErr : 3.0527553789394637
+nbBlocks : 95.0
+response time: 0.000253911
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  45165523
+------------------------------
+
+znt : 0.012757056666666671
+relativeErr : 2.4521271430925884
+nbBlocks : 120.0
+response time: 8.14928e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  71985843
+------------------------------
+znt : 0.012768240650406505
+relativeErr : 2.3471841466300192
+nbBlocks : 123.0
+response time: 4.06019e-06
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  75636725
+------------------------------
+
+znt : 0.012769110156249994
+relativeErr : 2.1606837643391605
+nbBlocks : 128.0
+response time: 0.00080532
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  81882900
+------------------------------
+
+znt : 0.012746916666666669
+relativeErr : 2.1012548904648538
+nbBlocks : 132.0
+response time: 0.000323863
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  87061816
+------------------------------
+znt : 0.012724185925925927
+relativeErr : 2.0747584443105413
+nbBlocks : 135.0
+response time: 3.49863e-06
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  91036554
+------------------------------
+znt : 0.012728376428571426
+relativeErr : 1.9724725816276965
+nbBlocks : 140.0
+response time: 8.30388e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  97966454
+------------------------------
+
+znt : 0.01250939
+relativeErr : 7.6106889292946081
+nbBlocks : 30.0
+response time: 9.47587e-06
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  4494614
+------------------------------
+znt : 0.01263279411764706
+relativeErr : 6.8860973439017075
+nbBlocks : 34.0
+response time: 6.7783e-06
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  5762806
+------------------------------
+znt : 0.012680249999999999
+relativeErr : 6.6418678007086465
+nbBlocks : 36.0
+response time: 4.7896e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  6466604
+------------------------------
+znt : 0.012647005405405405
+relativeErr : 6.7342412603987709
+nbBlocks : 37.0
+response time: 0.000221258
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  6819914
+------------------------------
+znt : 0.012760789473684206
+relativeErr : 6.6049747576890168
+nbBlocks : 38.0
+response time: 5.14795e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  7200625
+------------------------------
+znt : 0.012913392500000002
+relativeErr : 8.3005919394011372
+nbBlocks : 40.0
+response time: 6.47814e-06
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  7990199
+------------------------------
+znt : 0.012890956097560977
+relativeErr : 8.5665079341858927
+nbBlocks : 41.0
+response time: 0.000551658
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  8407442
+------------------------------
+znt : 0.013058211627906971
+relativeErr : 8.3617118555802374
+nbBlocks : 43.0
+response time: 1.41736e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  9267094
+------------------------------
+znt : 0.012896006250000003
+relativeErr : 7.1329006235263837
+nbBlocks : 48.0
+response time: 0.000779624
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  11536149
+------------------------------
+znt : 0.01281012857142857
+relativeErr : 4.3148030377447144
+nbBlocks : 70.0
+response time: 9.95571e-06
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  24499996
+------------------------------
+znt : 0.012774342500000003
+relativeErr : 3.7615825197317001
+nbBlocks : 80.0
+response time: 3.94066e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  32012754
+------------------------------

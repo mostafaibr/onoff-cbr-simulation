@@ -1,0 +1,154 @@
+znt : 0.015215658666666666
+relativeErr : 3.7526640754937648
+nbBlocks : 75.0
+response time: 0.000375908
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  28136766
+------------------------------
+znt : 0.015097478947368421
+relativeErr : 2.8868003815247207
+nbBlocks : 95.0
+response time: 0.000292312
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  45088972
+------------------------------
+znt : 0.015099978333333344
+relativeErr : 2.5820975261760064
+nbBlocks : 120.0
+response time: 0.000740926
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  71975602
+------------------------------
+znt : 0.01509711544715448
+relativeErr : 2.3617249482712896
+nbBlocks : 123.0
+response time: 0.00015578
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  75623998
+------------------------------
+znt : 0.015092092800000002
+relativeErr : 2.4558357535865176
+nbBlocks : 125.0
+response time: 5.63106e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  78121423
+------------------------------
+znt : 0.015112628906249993
+relativeErr : 2.2443469326770891
+nbBlocks : 128.0
+response time: 6.80131e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  81943004
+------------------------------
+znt : 0.015118180769230759
+relativeErr : 2.1493164756309491
+nbBlocks : 130.0
+response time: 0.000231096
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  84533194
+------------------------------
+znt : 0.01510223257575757
+relativeErr : 2.2005215455067377
+nbBlocks : 132.0
+response time: 0.000191793
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  87147997
+------------------------------
+znt : 0.015091511428571429
+relativeErr : 1.9997758588101728
+nbBlocks : 140.0
+response time: 0.0001338
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  98082805
+------------------------------
+znt : 0.015077645517241379
+relativeErr : 2.0521766561173069
+nbBlocks : 145.0
+response time: 8.63144e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  105240614
+------------------------------
+znt : 0.015285116666666662
+relativeErr : 10.467051181119679
+nbBlocks : 30.0
+response time: 0.000879528
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  4506676
+------------------------------
+znt : 0.015180221874999997
+relativeErr : 9.147573162717233
+nbBlocks : 32.0
+response time: 4.77679e-06
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  5129598
+------------------------------
+znt : 0.015460117499999995
+relativeErr : 8.1499277755922162
+nbBlocks : 40.0
+response time: 0.000632568
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  8029404
+------------------------------
+znt : 0.015401302439024392
+relativeErr : 7.4355342971800127
+nbBlocks : 41.0
+response time: 0.000381082
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  8428155
+------------------------------
+znt : 0.015377421428571429
+relativeErr : 7.3120882103086915
+nbBlocks : 42.0
+response time: 5.46088e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  8844878
+------------------------------
+znt : 0.015184740000000006
+relativeErr : 6.3603861514119746
+nbBlocks : 45.0
+response time: 5.74879e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  10112984
+------------------------------
+znt : 0.01512304255319148
+relativeErr : 6.1645749392238018
+nbBlocks : 47.0
+response time: 0.000554978
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  11021773
+------------------------------
+znt : 0.015162297999999999
+relativeErr : 5.9111505272560692
+nbBlocks : 50.0
+response time: 1.35848e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  12496813
+------------------------------
+znt : 0.015150212727272731
+relativeErr : 5.33375023503047
+nbBlocks : 55.0
+response time: 0.000138765
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  15130070
+------------------------------
+znt : 0.015235712307692311
+relativeErr : 4.6144825932102966
+nbBlocks : 65.0
+response time: 3.16301e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  21185534
+------------------------------
+znt : 0.015237092857142856
+relativeErr : 4.0429912442360596
+nbBlocks : 70.0
+response time: 0.000349944
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  24543521
+------------------------------
+znt : 0.015215658666666666
+relativeErr : 3.7526640754937648
+nbBlocks : 75.0
+response time: 0.000375908
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  28136766
+------------------------------

@@ -1,0 +1,77 @@
+znt : 0.03595765200000002
+relativeErr : 5.6794018857565982
+nbBlocks : 75.0
+response time: 0.0025634
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  42271281
+------------------------------
+znt : 0.035769195294117637
+relativeErr : 4.7670537337550138
+nbBlocks : 85.0
+response time: 0.00439013
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  54220664
+------------------------------
+znt : 0.035477910000000008
+relativeErr : 4.7433952177310408
+nbBlocks : 90.0
+response time: 0.00353941
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  60709921
+------------------------------
+znt : 0.035438973913043487
+relativeErr : 3.7205126739961374
+nbBlocks : 115.0
+response time: 0.000137371
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  99209274
+------------------------------
+znt : 0.035384334188034196
+relativeErr : 3.4463250806132253
+nbBlocks : 117.0
+response time: 0.00252154
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  102644489
+------------------------------
+znt : 0.03535673083333335
+relativeErr : 3.4302298529983406
+nbBlocks : 120.0
+response time: 0.00293936
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  107971800
+------------------------------
+znt : 0.035383317886178871
+relativeErr : 3.5506111660903894
+nbBlocks : 123.0
+response time: 6.43198e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  113463495
+------------------------------
+znt : 0.035443481599999986
+relativeErr : 3.327945378970719
+nbBlocks : 125.0
+response time: 0.000365054
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  117211086
+------------------------------
+znt : 0.035429313846153845
+relativeErr : 3.289848994813231
+nbBlocks : 130.0
+response time: 3.69696e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  126740559
+------------------------------
+znt : 0.035407059848484836
+relativeErr : 3.3946802767538884
+nbBlocks : 132.0
+response time: 0.00034136
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  130641637
+------------------------------
+znt : 0.035516302857142849
+relativeErr : 3.1910157034666811
+nbBlocks : 140.0
+response time: 0.000110299
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  147078132
+------------------------------

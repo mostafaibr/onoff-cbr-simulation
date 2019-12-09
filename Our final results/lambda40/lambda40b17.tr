@@ -1,0 +1,137 @@
+
+znt : 0.017564893043478254
+relativeErr : 2.6286635734619748
+nbBlocks : 115.0
+response time: 0.000808538
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  66134955
+------------------------------
+
+znt : 0.017605394999999996
+relativeErr : 2.6806126574630893
+nbBlocks : 120.0
+response time: 0.00163908
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  72038291
+------------------------------
+znt : 0.017570575609756101
+relativeErr : 2.6853423724710197
+nbBlocks : 123.0
+response time: 4.77216e-06
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  75661291
+------------------------------
+znt : 0.017595563200000008
+relativeErr : 2.6053608472008221
+nbBlocks : 125.0
+response time: 0.000266476
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  78139260
+------------------------------
+znt : 0.017592658593749991
+relativeErr : 2.4650224742005702
+nbBlocks : 128.0
+response time: 0.000121834
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  81957126
+------------------------------
+
+znt : 0.017562255555555559
+relativeErr : 2.4307790162156158
+nbBlocks : 135.0
+response time: 0.000283179
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  91117168
+------------------------------
+znt : 0.017553012142857146
+relativeErr : 2.2658070269192354
+nbBlocks : 140.0
+response time: 0.000134231
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  97975285
+------------------------------
+
+znt : 0.017021623333333329
+relativeErr : 7.8595349641604528
+nbBlocks : 30.0
+response time: 1.79873e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  4483494
+------------------------------
+znt : 0.017265590322580647
+relativeErr : 8.9344105016032902
+nbBlocks : 31.0
+response time: 0.000320817
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  4789705
+------------------------------
+znt : 0.017312143750000002
+relativeErr : 8.7001115487335046
+nbBlocks : 32.0
+response time: 0.000261635
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  5116964
+------------------------------
+znt : 0.01733952121212121
+relativeErr : 7.3951978822996676
+nbBlocks : 33.0
+response time: 7.114e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  5439396
+------------------------------
+znt : 0.017359774285714284
+relativeErr : 8.378887397610999
+nbBlocks : 35.0
+response time: 0.000220733
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  6121860
+------------------------------
+znt : 0.017406122499999999
+relativeErr : 7.0745753243136029
+nbBlocks : 40.0
+response time: 0.000802329
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  7988132
+------------------------------
+znt : 0.017490387804878046
+relativeErr : 6.7166523687521629
+nbBlocks : 41.0
+response time: 0.000108419
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  8390588
+------------------------------
+znt : 0.017561302325581396
+relativeErr : 6.9347845196828812
+nbBlocks : 43.0
+response time: 2.96207e-06
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  9216299
+------------------------------
+znt : 0.017552347727272728
+relativeErr : 6.9548322658136739
+nbBlocks : 44.0
+response time: 1.82326e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  9653629
+------------------------------
+znt : 0.017768921276595743
+relativeErr : 7.6732071564018538
+nbBlocks : 47.0
+response time: 6.7092e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  11052650
+------------------------------
+znt : 0.017993215999999999
+relativeErr : 8.1507995065621071
+nbBlocks : 50.0
+response time: 0.000224916
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  12528818
+------------------------------
+znt : 0.017600580000000001
+relativeErr : 6.5511811858031743
+nbBlocks : 60.0
+response time: 2.5812e-05
+response time ONOFF: _o43
+global_drops,ONOFF_drops, arrival: 0  0  17985644
+------------------------------
